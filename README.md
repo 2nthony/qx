@@ -1,2 +1,1 @@
-# read-Vue.js-3
-Future thing
+my own qx rules
